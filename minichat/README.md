@@ -1,8 +1,6 @@
 # Mini Chat
 
-Adapted from google's ../codelab.
-
-Deployed at <https://chat-client-4c5eb.firebaseapp.com>
+Adapted from [google's codelab.](https://codelabs.developers.google.com/codelabs/firebase-web)
 
 ## 1. Create a Firebase project
 
