@@ -47,6 +47,7 @@ Then there should be the code copied from your firebase project:
 ```html
 <script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
 <script>
+  // Initialize Firebase
   ...
 ```
 
