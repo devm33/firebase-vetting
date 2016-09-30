@@ -24,7 +24,7 @@ Change `"auth != null"` to `true` for both read and write:
 }
 ```
 
-Note, this give anyone read and write access to your database.
+Note, this gives anyone read and write access to your database.
 
 ## 3. Layout HTML for Chat App
 
