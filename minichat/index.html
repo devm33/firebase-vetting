@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<div>
+  <ul id="messages"></ul>
+  <form id="message-form">
+    <input type="text" id="message">
+    <button type="submit">Send</button>
+  </form>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyA4MDhKhmRFaJ1k-Wve_LKOfllUx5RWmn0",
+    authDomain: "minichat-20cde.firebaseapp.com",
+    databaseURL: "https://minichat-20cde.firebaseio.com",
+    storageBucket: "",
+    messagingSenderId: "377643822137"
+  };
+  firebase.initializeApp(config);
+</script>
+
+<script src="main.js"></script>
