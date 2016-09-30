@@ -1,4 +1,4 @@
-# Mini Chat
+# Minimal Chat Example
 
 Adapted from [google's codelab.](https://codelabs.developers.google.com/codelabs/firebase-web)
 
